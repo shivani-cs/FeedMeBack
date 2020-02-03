@@ -1,0 +1,18 @@
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #d6204e;
+  color: white;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Courier New", Courier, monospace;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20.7px;
+}
+
+.topcorner {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
